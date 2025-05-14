@@ -109,8 +109,9 @@ def cadastrar_usuario():
 def emprestar_livro():
     id_usuario = input("ID do usuário: ")
     if id_usuario not in usuarios:
-        print("Usuário não cadastrado.\n")
+        print("Usuário não encontrado.")
         return
+    id
     titulo = input("Título do livro: ")
     if titulo not in livros:
         print("Livro não encontrado.\n")
