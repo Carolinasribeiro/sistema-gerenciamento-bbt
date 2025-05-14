@@ -1,101 +1,101 @@
-id,titulo,autor,ano,disponivel
-1,Laboriosam earum soluta,Bryan Araújo,2002,True
-2,Rem pariatur,Diego Alves,2001,True
-3,Voluptatum soluta,Maria Fernanda Fogaça,1982,True
-4,Natus enim,Anthony Cunha,2016,True
-5,Assumenda commodi ipsam,Rodrigo Dias,1996,True
-6,Laboriosam dolores,Maria Clara Carvalho,2006,True
-7,Quae hic perferendis,Breno Mendes,1984,True
-8,Pariatur dolorum officiis,João Lucas da Mota,2021,True
-9,Mollitia impedit,Bruno Moura,1991,True
-10,Deleniti fugit libero,Maria Sophia Santos,2012,True
-11,Tempore nihil expedita,Letícia Silva,1980,True
-12,Maiores quisquam voluptates,Laura Aragão,2003,True
-13,Dicta dolorem soluta,Alana da Mata,2014,True
-14,Pariatur repellat,Samuel Almeida,1985,True
-15,Quaerat consequuntur,Leonardo Caldeira,2022,True
-16,Distinctio libero,Yago Nogueira,1994,True
-17,Ullam totam voluptates pariatur,Eloah Moura,2022,True
-18,Autem commodi doloribus sed,Lívia Melo,2010,True
-19,Officia sunt,Pedro Henrique Lopes,1993,True
-20,Nisi nostrum eligendi,Carolina Porto,2020,True
-21,Debitis fuga impedit,Henrique Alves,2010,True
-22,Eligendi architecto porro,Nicole Rocha,1986,True
-23,Porro voluptas,Lucas Gabriel Novaes,1996,True
-24,Alias ipsum,Dra. Clara Correia,1982,True
-25,Dolore magni est,Davi da Costa,2022,True
-26,Sed facere eum,Sr. Murilo Novaes,2003,True
-27,Esse vel,Emilly Araújo,2012,True
-28,Repellat adipisci,Otávio Melo,2019,True
-29,Inventore explicabo molestiae eius,Mariana da Rocha,2012,True
-30,Aliquid quibusdam similique,Dra. Nina Nogueira,2019,True
-31,Tempore consequatur quia,Dr. Luiz Otávio Rocha,2016,True
-32,Voluptatibus sapiente quibusdam,Alexandre das Neves,1994,True
-33,Similique explicabo,Raquel Pires,1986,True
-34,A numquam magnam,Laís Cunha,1996,True
-35,Rerum corrupti,Pedro Henrique Campos,2001,True
-36,Enim dolore,Ana Laura Cunha,2009,True
-37,Ipsum vel,Dr. Cauê Aragão,1985,True
-38,Autem voluptatum,Maria Fernanda Farias,2010,True
-39,Amet ratione,Marcos Vinicius Santos,2010,True
-40,Ducimus amet,Enzo Gabriel Gonçalves,2017,True
-41,Eveniet quae,Srta. Luna Lima,2018,True
-42,Labore magni,Davi Lucca Teixeira,2018,True
-43,Exercitationem nostrum quas,Alícia Aragão,2022,True
-44,Ab dolores,Diogo Correia,2014,True
-45,Quasi est beatae nulla,Pedro Oliveira,2009,True
-46,Harum labore,Eloah Silveira,2003,True
-47,Adipisci hic,Lara Cavalcanti,2009,True
-48,Incidunt distinctio,Srta. Daniela da Mata,1990,True
-49,Deserunt explicabo repellat,Cecília Cardoso,2022,True
-50,Quia neque animi,Guilherme Araújo,1993,True
-51,Assumenda consectetur modi,Alexandre Moraes,2005,True
-52,Sit ad animi,Sra. Stella das Neves,2016,True
-53,Nemo natus sint,Stephany Jesus,1986,True
-54,Error occaecati,Francisco Teixeira,1981,True
-55,Amet nobis,Yasmin Gonçalves,1990,True
-56,Similique nihil exercitationem,João Felipe Porto,2007,True
-57,Dolor provident,Ryan Cunha,1985,True
-58,Repellendus nam,Luiz Felipe Cardoso,1982,True
-59,Sed reprehenderit necessitatibus,Danilo Ferreira,1986,True
-60,Voluptatibus facere est,Lorena Porto,1996,True
-61,Ducimus consectetur,Srta. Lívia Nogueira,1986,True
-62,Temporibus harum,Francisco Peixoto,2002,True
-63,Laudantium tempore voluptates,Raquel Rodrigues,1981,True
-64,Rem voluptatum reprehenderit,Maria Alice Teixeira,2005,True
-65,Odio illum amet,Dra. Marina Pires,2010,True
-66,Quaerat quasi,Fernando da Mota,2014,True
-67,Aliquam quasi quo,Sr. Thiago Lima,2005,True
-68,Quibusdam dolore,Luiz Henrique Almeida,2022,True
-69,Architecto ex,Srta. Larissa Oliveira,2001,True
-70,Adipisci rerum nesciunt,Diogo Almeida,2012,True
-71,Eveniet itaque,Srta. Amanda Farias,2014,True
-72,Reiciendis dolorum voluptatem,Raquel Teixeira,1985,True
-73,Eaque cum,Vitor Hugo da Mata,2007,True
-74,Unde rerum,Vinicius Rodrigues,1987,True
-75,Omnis maiores,Esther Teixeira,1993,True
-76,Sunt eos,Marcos Vinicius da Rocha,2019,True
-77,Sit ratione labore,Diego Barbosa,1998,True
-78,Sunt soluta officia,Anthony Ramos,1983,True
-79,Nesciunt assumenda dolorem,Sr. Diogo Lopes,2005,True
-80,Nisi incidunt neque,Srta. Joana da Mata,2008,True
-81,Ducimus dolorum,Alícia Jesus,1981,True
-82,Maiores officiis ipsum,Theo Moura,2008,True
-83,Occaecati soluta ullam,Eduardo Ferreira,1994,True
-84,Debitis ad fugiat dolores,Dr. Caio Silva,1992,True
-85,Nesciunt esse,Dra. Stella Almeida,2018,True
-86,Provident reiciendis mollitia,Bianca Mendes,2023,True
-87,Est,Evelyn Araújo,2023,True
-88,Odit molestias,Sr. André Vieira,1992,True
-89,Vitae sint eveniet,Cauã da Cunha,2010,True
-90,Eum ad autem,Sofia Vieira,1980,True
-91,Sunt quam dolor,Vitor Hugo Cavalcanti,2014,True
-92,Veniam harum itaque,Dra. Laís Cavalcanti,1988,True
-93,Omnis eum,Maria Fernanda Dias,1987,True
-94,Fugiat sequi,Luigi Correia,1986,True
-95,Pariatur eligendi,Joaquim Farias,1999,True
-96,Quibusdam placeat,Maria Luiza Alves,1993,True
-97,Ad iste facilis,Thales Barbosa,1986,True
-98,Voluptatum reprehenderit in aliquid,Emanuel Dias,1999,True
-99,Ut exercitationem,Maria Vitória Costa,2007,True
-100,Sint molestias vitae,Bernardo Teixeira,1990,True
+titulo,autor,ano,copias
+A Esperança,Neil Gaiman,1952,4
+O Lado Bom da Vida,Carlos Ruiz Zafón,1980,2
+Lua Nova,Neil Gaiman,1990,1
+Doutor Sono,Lois Lowry,1990,4
+O Nome do Vento,Lois Lowry,2004,3
+O Caçador de Pipas,Miguel de Cervantes,1961,3
+O Hobbit,Lois Lowry,1992,4
+O Nome do Vento,Kiera Cass,1970,5
+A Seleção,Khaled Hosseini,2005,2
+O Símbolo Perdido,Miguel de Cervantes,1994,5
+Coraline,C.S. Lewis,2000,5
+"Carrie, a Estranha",Lois Lowry,1958,3
+Em Chamas,Carlos Ruiz Zafón,1983,2
+O Chamado do Cuco,William P. Young,2006,2
+1984,Khaled Hosseini,1960,2
+O Caçador de Pipas,Miguel de Cervantes,1960,3
+Crepúsculo,Jane Austen,1970,3
+A Sombra do Vento,Markus Zusak,1992,2
+"Quem é Você, Alasca?",William P. Young,2003,4
+O Símbolo Perdido,Jane Austen,1990,5
+A Sombra do Vento,Miguel de Cervantes,1974,5
+As Vantagens de Ser Invisível,J.K. Rowling,1958,5
+O Alquimista,Anne Frank,1958,4
+Harry Potter e a Pedra Filosofal,Jane Austen,1971,3
+A Elite,Khaled Hosseini,1991,2
+A Sombra do Vento,Gabriel García Márquez,2006,4
+A Menina que Não Sabia Ler,Kiera Cass,2015,3
+Doutor Sono,Stephen King,2022,4
+"Quem é Você, Alasca?",Antoine de Saint-Exupéry,1977,4
+O Senhor dos Anéis,Jane Austen,1982,1
+Crepúsculo,John Verdon,1991,2
+O Código Da Vinci,Jane Austen,1952,1
+O Caçador de Pipas,Paulo Coelho,2007,1
+Dom Quixote,Markus Zusak,2023,4
+"Carrie, a Estranha",Patrick Rothfuss,1995,5
+A Menina que Roubava Livros,Markus Zusak,2021,5
+"Carrie, a Estranha",Kiera Cass,1966,4
+O Símbolo Perdido,Jane Austen,1970,5
+1984,Carlos Ruiz Zafón,2011,5
+"Quem é Você, Alasca?",Carlos Ruiz Zafón,2022,2
+Anjos e Demônios,Jane Austen,1998,4
+O Nome do Vento,Miguel de Cervantes,1958,3
+O Pequeno Príncipe,Stephenie Meyer,1990,1
+Cem Anos de Solidão,J.R.R. Tolkien,2014,1
+A Cabana,Matthew Quick,2008,4
+O Símbolo Perdido,J.K. Rowling,1951,3
+O Código Da Vinci,J.R.R. Tolkien,1955,5
+"Quem é Você, Alasca?",George R.R. Martin,2015,3
+Jogos Vorazes,William P. Young,1996,5
+O Senhor dos Anéis,Stephenie Meyer,1952,4
+O Símbolo Perdido,Jane Austen,1970,3
+"Carrie, a Estranha",J.K. Rowling,1971,4
+Dom Quixote,Kiera Cass,1964,4
+Os Miseráveis,George R.R. Martin,2004,3
+A Menina que Não Sabia Ler,Paulo Coelho,2009,4
+Orgulho e Preconceito,Paulo Coelho,1974,3
+1984,Stephenie Meyer,1989,1
+O Iluminado,Neil Gaiman,1958,4
+Misery: Louca Obsessão,Stephen King,1981,2
+Jogos Vorazes,Lois Lowry,1985,3
+O Pequeno Príncipe,J.R.R. Tolkien,1993,2
+Morte Súbita,George Orwell,1993,5
+"Carrie, a Estranha",Patrick Rothfuss,1980,1
+O Iluminado,John Green,1992,3
+A Revolução dos Bichos,Carlos Ruiz Zafón,2019,2
+A Culpa é das Estrelas,J.R.R. Tolkien,2012,3
+O Diário de Anne Frank,George R.R. Martin,1961,4
+A Menina que Não Sabia Ler,Suzanne Collins,1966,1
+O Símbolo Perdido,John Verdon,1978,5
+Crepúsculo,George R.R. Martin,1969,3
+It: A Coisa,Stephenie Meyer,1954,5
+A Elite,Antoine de Saint-Exupéry,2003,4
+O Código Da Vinci,Dan Brown,1979,4
+Dom Quixote,Anne Frank,1973,4
+Cem Anos de Solidão,Suzanne Collins,2011,4
+O Código Da Vinci,Matthew Quick,1983,3
+1984,Miguel de Cervantes,1950,2
+O Chamado do Cuco,George Orwell,1970,2
+O Caçador de Pipas,Matthew Quick,1972,4
+O Caçador de Pipas,J.K. Rowling,1974,3
+Doutor Sono,Khaled Hosseini,1973,5
+Anjos e Demônios,Markus Zusak,1990,1
+O Caçador de Pipas,Victor Hugo,1970,2
+As Vantagens de Ser Invisível,Lois Lowry,1987,1
+A Cabana,Dan Brown,2010,3
+Jogos Vorazes,Suzanne Collins,1952,5
+O Hobbit,Markus Zusak,1967,5
+A Menina que Roubava Livros,Suzanne Collins,1989,4
+Os Miseráveis,Patrick Rothfuss,1977,1
+Orgulho e Preconceito,Paulo Coelho,2000,3
+A Menina que Não Sabia Ler,Anne Frank,2004,5
+O Diário de Anne Frank,Kiera Cass,1987,4
+Cidade dos Ossos,Gabriel García Márquez,1996,2
+Crepúsculo,C.S. Lewis,2010,1
+As Vantagens de Ser Invisível,Suzanne Collins,1990,1
+O Diário de Anne Frank,Dan Brown,1999,5
+A Seleção,Dan Brown,1998,1
+Misery: Louca Obsessão,William P. Young,1967,5
+O Chamado do Cuco,Matthew Quick,1969,4
+Crepúsculo,Antoine de Saint-Exupéry,1981,5
