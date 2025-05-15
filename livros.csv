@@ -1,101 +1,101 @@
-id_livro,titulo,autor,ano,copias
-1,Menino de Engenho,Clarice Lispector,1922,16
-2,Pantaleão e as Visitadoras,Machado de Assis,2000,11
-3,Se Houver Amanhã,Luis Fernando Verissimo,1967,6
-4,Cem Anos de Solidão,J. K. Rowling,1916,13
-5,O Outro Pé da Sereia,Suzanne Collins,1921,11
-6,O Mistério do Cinco Estrelas,Graciliano Ramos,1986,17
-7,O Símbolo Perdido,Erico Verissimo,1998,18
-8,O Amor nos Tempos do Cólera,Ziraldo,1989,5
-9,Menino Maluquinho,Mario Vargas Llosa,1940,9
-10,A Muralha,Ziraldo,1968,7
-11,O Meu Pé de Laranja Lima,Rubem Fonseca,1902,10
-12,Senhora,Clarice Lispector,1855,18
-13,Terra Sonâmbula,José de Alencar,2023,2
-14,Helena,Ziraldo,1926,16
-15,Incidente em Antares,Pedro Bandeira,1864,19
-16,Inferno,José Saramago,1944,5
-17,A Ferro e Fogo,Luis Sepúlveda,1898,10
-18,O Encontro Marcado,José Saramago,2006,4
-19,As Vantagens de Ser Invisível,Umberto Eco,2006,1
-20,Felicidade Clandestina,Machado de Assis,1859,18
-21,Estação Carandiru,Mario Vargas Llosa,1872,5
-22,O Tempo e o Vento,Umberto Eco,1912,2
-23,Ensaio Sobre a Cegueira,Manuel Antônio de Almeida,2014,3
-24,A Hora da Estrela,Luis Fernando Verissimo,1969,11
-25,São Bernardo,Gabriel García Márquez,1918,4
-26,O Seminarista,Mario Vargas Llosa,1958,2
-27,O Evangelho Segundo Jesus Cristo,Milton Hatoum,1850,1
-28,Inocência,José Saramago,1898,5
-29,O Alquimista,Milton Hatoum,1857,14
-30,Mar Morto,Marina Colasanti,2024,13
-31,O Guarani,Stephen Chbosky,1919,17
-32,Jogos Vorazes,Aluísio Azevedo,1942,8
-33,Quarto de Despejo,Richard Bach,1905,4
-34,A Casa das Sete Mulheres,Mia Couto,1922,10
-35,Sagarana,Joaquim Manuel de Macedo,2012,2
-36,A Moreninha,Ruth Rocha,1981,13
-37,A Bolsa Amarela,Erico Verissimo,1946,9
-38,Travessuras da Menina Má,Milton Hatoum,1934,4
-39,O Código Da Vinci,Raquel de Queiroz,1862,14
-40,O Gênio do Crime,João Guimarães Rosa,1988,2
-41,O Filho Eterno,Antoine de Saint-Exupéry,1863,9
-42,Cabeça de Papel,Rubem Fonseca,1915,9
-43,"Marcelo, Marmelo, Martelo",Caio Fernando Abreu,1952,8
-44,Iracema,Umberto Eco,1975,6
-45,Recordações do Escrivão Isaías Caminha,Mia Couto,1853,11
-46,Clara dos Anjos,Ziraldo,1986,2
-47,Zero,Rick Riordan,2022,2
-48,O Homem Duplicado,Rubem Fonseca,1871,5
-49,Mayombe,Luis Sepúlveda,1865,7
-50,O Cortiço,Dan Brown,1918,9
-51,O Vendedor de Sonhos,Raquel de Queiroz,1961,1
-52,Infância,J. K. Rowling,1913,14
-53,A Menina que Roubava Livros,José de Alencar,1855,2
-54,O Nome da Rosa,Rubem Fonseca,2023,16
-55,Macunaíma,Mia Couto,1943,19
-56,O Pequeno Príncipe,Lygia Fagundes Telles,1950,3
-57,Um Defeito de Cor,Machado de Assis,1886,15
-58,O Ateneu,Caio Fernando Abreu,1867,17
-59,Todos os Nomes,Luis Fernando Verissimo,1884,7
-60,Os Ratos,Milton Hatoum,1970,18
-61,Grande Sertão: Veredas,Fernando Sabino,1908,19
-62,Ou Isto ou Aquilo,Ziraldo,1975,14
-63,Memórias Póstumas de Brás Cubas,Stephen Chbosky,2024,1
-64,Vidas Secas,José de Alencar,2015,3
-65,Harry Potter e a Pedra Filosofal,Clarice Lispector,1933,7
-66,Eles Eram Muitos Cavalos,José de Alencar,1885,18
-67,Onze Minutos,Mia Couto,1965,14
-68,Caim,Manuel Antônio de Almeida,1970,13
-69,As Intermitências da Morte,Richard Bach,1876,18
-70,A Máquina de Fazer Espanhóis,Marina Colasanti,1869,15
-71,O Escaravelho do Diabo,J. R. R. Tolkien,1946,2
-72,O Hobbit,Aluísio Azevedo,1924,19
-73,A Sombra do Vento,Clarice Lispector,1996,13
-74,O Fantástico Mistério de Feiurinha,Stephen Chbosky,1984,11
-75,Fogo Morto,Luis Fernando Verissimo,2010,14
-76,Brida,Richard Bach,1919,13
-77,A Marca de uma Lágrima,Erico Verissimo,1915,6
-78,Olga,José Saramago,1852,17
-79,Percy Jackson e o Ladrão de Raios,Umberto Eco,1869,13
-80,Fortaleza Digital,Clarice Lispector,2001,11
-81,A Paixão Segundo G.H.,Umberto Eco,1943,10
-82,Lucíola,Manuel Antônio de Almeida,1853,10
-83,Veronika Decide Morrer,Pepetela,1869,13
-84,Fernão Capelo Gaivota,Pepetela,1900,4
-85,Cacau,Milton Hatoum,2023,16
-86,Triste Fim de Policarpo Quaresma,Suzanne Collins,1928,6
-87,A Ilha Perdida,Stephen Chbosky,1956,12
-88,A Culpa é das Estrelas,Caio Fernando Abreu,1850,1
-89,Dom Casmurro,Pedro Bandeira,1856,17
-90,"Gabriela, Cravo e Canela",Raquel de Queiroz,1981,17
-91,Ponciá Vicêncio,Mia Couto,1951,9
-92,A Festa do Bode,Carlos Drummond de Andrade,1970,14
-93,Doidinho,Erico Verissimo,1956,8
-94,Contos Novos,Milton Hatoum,1951,5
-95,Capitães da Areia,Ziraldo,1850,13
-96,O Senhor dos Anéis,Stephen Chbosky,1945,6
-97,Subterrâneos da Liberdade,Luis Fernando Verissimo,1918,15
-98,O Mulato,João Ubaldo Ribeiro,1903,5
-99,Niketche,Rick Riordan,1902,6
-100,Crônica de uma Morte Anunciada,Pepetela,1968,1
+titulo,autor,ano,copias,avaliacoes,comentarios
+Menino de Engenho,Clarice Lispector,1922,16,,
+Pantaleão e as Visitadoras,Machado de Assis,2000,11,,
+Se Houver Amanhã,Luis Fernando Verissimo,1967,6,,
+Cem Anos de Solidão,J. K. Rowling,1916,13,,
+O Outro Pé da Sereia,Suzanne Collins,1921,11,,
+O Mistério do Cinco Estrelas,Graciliano Ramos,1986,17,,
+O Símbolo Perdido,Erico Verissimo,1998,18,,
+O Amor nos Tempos do Cólera,Ziraldo,1989,5,,
+Menino Maluquinho,Mario Vargas Llosa,1940,9,,
+A Muralha,Ziraldo,1968,7,,
+O Meu Pé de Laranja Lima,Rubem Fonseca,1902,10,,
+Senhora,Clarice Lispector,1855,18,,
+Terra Sonâmbula,José de Alencar,2023,2,,
+Helena,Ziraldo,1926,16,,
+Incidente em Antares,Pedro Bandeira,1864,19,,
+Inferno,José Saramago,1944,5,,
+A Ferro e Fogo,Luis Sepúlveda,1898,10,,
+O Encontro Marcado,José Saramago,2006,4,,
+As Vantagens de Ser Invisível,Umberto Eco,2006,1,,
+Felicidade Clandestina,Machado de Assis,1859,18,,
+Estação Carandiru,Mario Vargas Llosa,1872,5,,
+O Tempo e o Vento,Umberto Eco,1912,2,,
+Ensaio Sobre a Cegueira,Manuel Antônio de Almeida,2014,3,,
+A Hora da Estrela,Luis Fernando Verissimo,1969,11,,
+São Bernardo,Gabriel García Márquez,1918,4,,
+O Seminarista,Mario Vargas Llosa,1958,2,,
+O Evangelho Segundo Jesus Cristo,Milton Hatoum,1850,1,,
+Inocência,José Saramago,1898,5,,
+O Alquimista,Milton Hatoum,1857,14,,
+Mar Morto,Marina Colasanti,2024,13,,
+O Guarani,Stephen Chbosky,1919,17,,
+Jogos Vorazes,Aluísio Azevedo,1942,8,,
+Quarto de Despejo,Richard Bach,1905,4,,
+A Casa das Sete Mulheres,Mia Couto,1922,10,,
+Sagarana,Joaquim Manuel de Macedo,2012,2,,
+A Moreninha,Ruth Rocha,1981,13,,
+A Bolsa Amarela,Erico Verissimo,1946,9,,
+Travessuras da Menina Má,Milton Hatoum,1934,4,,
+O Código Da Vinci,Raquel de Queiroz,1862,14,,
+O Gênio do Crime,João Guimarães Rosa,1988,2,,
+O Filho Eterno,Antoine de Saint-Exupéry,1863,9,,
+Cabeça de Papel,Rubem Fonseca,1915,9,,
+"Marcelo, Marmelo, Martelo",Caio Fernando Abreu,1952,8,,
+Iracema,Umberto Eco,1975,6,,
+Recordações do Escrivão Isaías Caminha,Mia Couto,1853,11,,
+Clara dos Anjos,Ziraldo,1986,2,,
+Zero,Rick Riordan,2022,2,,
+O Homem Duplicado,Rubem Fonseca,1871,5,,
+Mayombe,Luis Sepúlveda,1865,7,,
+O Cortiço,Dan Brown,1918,9,,
+O Vendedor de Sonhos,Raquel de Queiroz,1961,1,,
+Infância,J. K. Rowling,1913,14,,
+A Menina que Roubava Livros,José de Alencar,1855,2,,
+O Nome da Rosa,Rubem Fonseca,2023,16,,
+Macunaíma,Mia Couto,1943,19,,
+O Pequeno Príncipe,Lygia Fagundes Telles,1950,3,,
+Um Defeito de Cor,Machado de Assis,1886,15,,
+O Ateneu,Caio Fernando Abreu,1867,17,,
+Todos os Nomes,Luis Fernando Verissimo,1884,7,,
+Os Ratos,Milton Hatoum,1970,18,,
+Grande Sertão: Veredas,Fernando Sabino,1908,19,,
+Ou Isto ou Aquilo,Ziraldo,1975,14,,
+Memórias Póstumas de Brás Cubas,Stephen Chbosky,2024,1,,
+Vidas Secas,José de Alencar,2015,3,,
+Harry Potter e a Pedra Filosofal,Clarice Lispector,1933,7,,
+Eles Eram Muitos Cavalos,José de Alencar,1885,18,,
+Onze Minutos,Mia Couto,1965,14,,
+Caim,Manuel Antônio de Almeida,1970,13,,
+As Intermitências da Morte,Richard Bach,1876,18,,
+A Máquina de Fazer Espanhóis,Marina Colasanti,1869,15,,
+O Escaravelho do Diabo,J. R. R. Tolkien,1946,2,,
+O Hobbit,Aluísio Azevedo,1924,19,,
+A Sombra do Vento,Clarice Lispector,1996,13,,
+O Fantástico Mistério de Feiurinha,Stephen Chbosky,1984,11,,
+Fogo Morto,Luis Fernando Verissimo,2010,14,,
+Brida,Richard Bach,1919,13,,
+A Marca de uma Lágrima,Erico Verissimo,1915,6,,
+Olga,José Saramago,1852,17,,
+Percy Jackson e o Ladrão de Raios,Umberto Eco,1869,13,,
+Fortaleza Digital,Clarice Lispector,2001,11,,
+A Paixão Segundo G.H.,Umberto Eco,1943,10,,
+Lucíola,Manuel Antônio de Almeida,1853,10,,
+Veronika Decide Morrer,Pepetela,1869,13,,
+Fernão Capelo Gaivota,Pepetela,1900,4,,
+Cacau,Milton Hatoum,2023,16,,
+Triste Fim de Policarpo Quaresma,Suzanne Collins,1928,6,,
+A Ilha Perdida,Stephen Chbosky,1956,12,,
+A Culpa é das Estrelas,Caio Fernando Abreu,1850,1,,
+Dom Casmurro,Pedro Bandeira,1856,16,4,Muito Bom!
+"Gabriela, Cravo e Canela",Raquel de Queiroz,1981,17,,
+Ponciá Vicêncio,Mia Couto,1951,9,,
+A Festa do Bode,Carlos Drummond de Andrade,1970,14,,
+Doidinho,Erico Verissimo,1956,8,,
+Contos Novos,Milton Hatoum,1951,5,,
+Capitães da Areia,Ziraldo,1850,13,,
+O Senhor dos Anéis,Stephen Chbosky,1945,6,,
+Subterrâneos da Liberdade,Luis Fernando Verissimo,1918,15,,
+O Mulato,João Ubaldo Ribeiro,1903,5,,
+Niketche,Rick Riordan,1902,6,,
+Crônica de uma Morte Anunciada,Pepetela,1968,1,,
