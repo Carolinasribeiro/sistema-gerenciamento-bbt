@@ -2,18 +2,20 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=21&pause=1500&color=yellow&center=true&vCenter=true&width=500&lines=Sistema+de+Gerenciamento+de+Empréstimos;Utilizando+linguagem+Python." alt="Typing SVG" />
 </p>
 
-# 💭Descrição sobre o objetivo desse projeto
+## 💭Descrição sobre o objetivo desse projeto
   Este projeto foi desenvolvido para a disciplina Projeto Integrado, que visa colocar em prática os conhecimentos adquiridos durante o semestre. O objetivo é criar um sistema de gerenciamento de empréstimos de livros para uma biblioteca.
-  O sistema deve possibilitar:
+  FUNCIONALIDADES INCLUÍDAS ATÉ AGORA:
   ```bash
-  ├──Cadastro de novas cópias
-  ├──Cadastro de Usuários
-  ├──Empréstimo de livros
-  ├──Devolução de livros
-  ├──Avaliação dos livros após devolução
-  └──Aplicação de multa por atraso
+
+├──Cadastro de livros e usuários
+├──Atualização de número de cópias de livros já cadastrados
+├──Empréstimo de livros com controle de prazo
+├──Cálculo automático de multa por atraso (R$ 2,00/dia)
+├──Avaliação de 1 a 5 estrelas + comentários
+├──Salvamento e carregamento de dados via CSV
+├──Controle de disponibilidade de exemplares
+└──Lista de livros disponíveis
   ```
-  cadastro de novas cópias
 
 ⚙️Ferramentas
 
@@ -31,6 +33,21 @@ Sistema de Gerenciamento de Biblioteca
 ├── emprestimos.csv
 └── README.md
 ```
+
+## Como rodar o sistema
+1. Certifique-se de ter o Python 3 instalado na sua máquina.
+2. Clone este repositório ou faça o download dos arquivos.
+
+   git clone https://github.com/Carolinasribeiro/sistema-gerenciamento-bbt.git
+
+3. Abra o projeto no editor de sua preferência.
+4. Execute o arquivo principal do sistema `biblioteca.py`.
+5. O sistema será executado via console (linha de comando).
+   Basta seguir as instruções do menu para navegar entre as opções.
+
+❗ IMPORTANTE: Para garantir que os dados sejam salvos corretamente (livros, usuários, empréstimos, avaliações etc.), o sistema deve ser encerrado **somente pela opção 6 do menu** ("Sair").
+
+
 ## 🟢Aprendizados
 Durante a realização desse projeto pude colocar em prática o aprendizado do semestre. Porém, o mais importante foi, através deste, compreender as áreas de defasagem de aprendizado, e assim poder compensá-las com mais estudo.
 
