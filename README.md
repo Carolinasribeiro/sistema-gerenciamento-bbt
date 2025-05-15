@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=21&pause=1500&color=yellow&center=true&vCenter=true&width=500&lines=Sistema+de+Gerenciamento+de+empr&eacute;stimos;Utilizando+linguagem+Python." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=21&pause=1500&color=yellow&center=true&vCenter=true&width=500&lines=Sistema+de+Gerenciamento+de+Empr%C3%A9stimos;Utilizando+linguagem+Python." alt="Typing SVG" />
 </p>
 
 ## 💭Descrição sobre o objetivo desse projeto
