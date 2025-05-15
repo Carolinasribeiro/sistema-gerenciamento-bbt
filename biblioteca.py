@@ -220,11 +220,16 @@ def cadastrar_livro():
     titulo = input("Título: ")
     autor = input("Autor: ")
     ano = int(input("Ano: "))
-    copias = int(input("Número de cópias: "))
-    livros[titulo] = Livro(titulo, autor, ano, copias)
-    salvar_livros(livros)
-    print("Livro cadastrado com sucesso!\n")
+    novas_copias = int(input("Número de cópias: "))
 
+    if titulo in livros:
+        livros[titulo].copias += novas_copias
+        print(f"Cópias atualizadas. Agora o livro '{titulo}' tem {livros[titulo].copias} cópias.\n")
+    else:
+        livros[titulo] = Livro(titulo, autor, ano, novas_copias)
+        print("Livro cadastrado com sucesso!\n")
+    
+    salvar_livros(livros)
 def cadastrar_usuario():
     id_usuario = input("ID do usuário: ")
     nome = input("Nome: ")
@@ -234,6 +239,9 @@ def cadastrar_usuario():
         writer = csv.writer(f)
         writer.writerow([id_usuario, nome, contato])
     print("Usuário cadastrado com sucesso!\n")
+    if id_usuario in usuarios:
+        print("Este usuário já está cadastrado.\n")
+    return
 
 def listar_livros():
     if not livros:
