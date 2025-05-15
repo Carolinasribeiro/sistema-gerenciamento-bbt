@@ -1,1 +1,4 @@
-id_usuario,titulo
+id_usuario,titulo,data_emprestimo,data_prevista,data_devolucao,multa
+005,Dom Quixote,2025-05-14,2025-05-21,2025-05-14,0
+002,Dom Quixote,2025-05-14,2025-05-21,2025-05-14,0
+003,Dom Quixote,2025-05-14,2025-05-21,2025-05-14,0
